@@ -12,4 +12,7 @@ Repositorio utilizado para desarrollar y evidenciar la evaluación T2,
 aplicando control de versiones con Git y GitHub.## Evidencia T2
 
 Evaluación 02 de Lenguaje de Programación II.
-Evidencia de configuración inicial y control de versiones con Git.
+Evidencia de configuración inicial y control de versiones con Git.## Control de cambios
+
+Se incorpora esta sección para registrar los cambios realizados
+durante la evaluación T2 mediante el control de versiones con Git.

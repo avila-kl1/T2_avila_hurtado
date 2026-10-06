@@ -1,0 +1,2 @@
+Observaciones de la evaluación T2.
+Se realizaron cambios y verificaciones utilizando Git.
